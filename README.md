@@ -10,7 +10,7 @@ I hope this model helps you to simply store data for you project.
 ## Database model
 ```
 Start position
-Removed data start position
+Removed start position
 Size
   Datasize
   Data
